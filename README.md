@@ -1,2 +1,2 @@
 # bullshit-meter
-Burst the Bullshit Everywhere
+Bust the Bullshit Everywhere
